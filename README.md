@@ -8,9 +8,9 @@
 </div>
 
 # 🎩 About Me:
-Soy un desarrollador Full Stack con más de 15 años de experiencia en empresas nacionales, internacionales y startups de primer nivel, desarrollando y liderando equipos. Mi dominio en Python, Node.js y JavaScript me permite diseñar e implementar soluciones eficientes y escalables.
+Soy un desarrollador Full Stack con más de 15 años de experiencia en empresas nacionales, internacionales y startups de primer nivel, desarrollando y liderando equipos. Mi dominio en React, Node.js, Bun y JavaScript me permite diseñar e implementar soluciones eficientes y escalables.
 
-La habilidad que he cultivado en estos años para adaptarme a diferentes entornos y colaborar con equipos multidisciplinarios hace de mí un candidato ideal para enfrentar los desafíos tecnológicos más exigentes y agregar valor a cualquier proyecto.<br><br>---<br><br>I am a Full Stack developer with over 15 years of experience in national and international companies, as well as leading teams in top-level startups. My expertise in Python, Node.js, and JavaScript allows me to design and implement efficient and scalable solutions.
+La habilidad que he cultivado en estos años para adaptarme a diferentes entornos y colaborar con equipos multidisciplinarios hace de mí un candidato ideal para enfrentar los desafíos tecnológicos más exigentes y agregar valor a cualquier proyecto.<br><br>---<br><br>I am a Full Stack developer with over 15 years of experience in national and international companies, as well as leading teams in top-level startups. My expertise in React, Node.js, Bun and JavaScript allows me to design and implement efficient and scalable solutions.
 
 The ability I have cultivated over these years to adapt to different environments and collaborate with multidisciplinary teams makes me an ideal candidate to tackle the most demanding technological challenges and add value to any project.
 
